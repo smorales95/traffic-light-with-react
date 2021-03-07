@@ -1,5 +1,5 @@
 import React, { useState } from "react";
-import "/workspace/react-hello/src/styles/index.scss";
+import "/workspace/traffic-light-with-react/src/styles/index.scss";
 
 export function Semaforo() {
 	let [luzr, setLuz1] = useState("Apagado");
