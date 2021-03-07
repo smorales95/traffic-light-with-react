@@ -11,3 +11,51 @@
     import 'relative/path/to/stylesheet.scss';
 
 */
+.palo{
+    width: 20px;
+    height: 100px;
+    background-color: black;
+    //margin-bottom: 20px;
+    margin-left: 87px;
+    
+
+}
+.marco{
+    width: 150px;
+    height: 375px;
+    border-radius: 10px;
+    background-color: black;
+    //margin-top: 100px;
+    margin-top: -28px !important;
+    display: inline-block;
+}
+
+
+.rojo{
+    background-color: red;
+    width: 85px;
+    height: 85px;
+    border-radius: 100px;
+    margin-left: 22%;
+    margin-top: 24px;
+       
+}
+
+.naranja{
+ background-color: orange;
+    width: 85px;
+    height: 85px;
+    border-radius: 100px;   
+    margin-left: 22%;
+    margin-top: 36px;
+}
+
+.verde{
+ background-color: green;
+    width: 85px;
+    height: 85px;
+    border-radius: 100px;   
+    margin-left: 22%;
+    margin-top: 36px;
+    
+}
